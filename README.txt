@@ -56,8 +56,5 @@ Endpoint |HTTP Method | Method | Result
 -   Open http://127.0.0.1:8000//api/auth/articles/{article_id}/comments for list comments under article and create new comments under article
 
 
-### Note : 
-
--   Left "rest_framework.renderers" as default to test using browser
--   Only Author can Update or Delete the Article
+### Commands Note : Left "rest_framework.renderers" as default to test using browser
 
