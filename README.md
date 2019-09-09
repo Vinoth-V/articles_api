@@ -13,12 +13,12 @@
 
 ## Installation
 ```
-	pip install django==1.11.17
-	pip install django-filter==1.0.0
-	pip install djangorestframework==3.10.3
-	pip install markdown==3.1.1
-	pip install django-filter==1.0.0
-	pip install djangorestframework-jwt==1.11.0
+	pip3 install django==1.11.17
+	pip3 install django-filter==1.0.0
+	pip3 install djangorestframework==3.10.3
+	pip3 install markdown==3.1.1
+	pip3 install django-filter==1.0.0
+	pip3 install djangorestframework-jwt==1.11.0
 
 ```
 Access Blog data from your application using the HTTP methods - GET, POST, PUT, PATCH, DELETE
